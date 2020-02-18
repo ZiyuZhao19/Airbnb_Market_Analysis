@@ -1,4 +1,4 @@
-#### MSSP 607: Practical Programming for Data Science
+# MSSP 607: Practical Programming for Data Science
 Final Project: Boston & Seattle Airbnb Data Exploration & Comparative Research
 
 Collaborator: Xuechuan Song
